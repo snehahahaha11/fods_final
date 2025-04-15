@@ -1,0 +1,3 @@
+Siron: Datascience: 80.0, IT: 80.0, FOM: 80.0, Academic English: 9.0, ITF: 99.0
+Kristina: Datascience: 88.0, IT: 77.0, FOM: 95.0, Academic English: 6.0, ITF: 85.0
+Siron: Datascience: 92.0, IT: 84.0, FOM: 77.0, Academic English: 8.0, ITF: 60.0Siron: Datascience: 90.0, IT: 80.0, FOM: 70.0, Academic English: 95.0, ITF: 85.0
